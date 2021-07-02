@@ -1,12 +1,12 @@
 # Site settings
-title: Next Day Ventures
-name: Next Day Ventures
-description: Bringing Technical Startups to Market Fast
+title: SameRun
+name: SameRun
+description: Run together. Everywhere - on the same run.
 cover: assets/images/hero.png
 logo: assets/images/logo.svg.png
 favicon: assets/images/logo.svg.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://nextdayventures.com" # the base hostname & protocol for your site
+url: "https://same.run" # the base hostname & protocol for your site
 
 pagination:
 
